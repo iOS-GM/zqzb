@@ -1,0 +1,30 @@
+Package: com.rifai.ios26edark
+Version: 1.0.2
+Section: Themes
+Architecture: iphoneos-arm64
+Maintainer: LF <3791270819@qq.com>
+Depends: com.spark.snowboard, com.spark.snowboard.ui, firmware (>=15.0)
+Name: iOS26e Dark Theme
+Author: LF <3791270819@qq.com>
+Sponsor: LF <3791270819@qq.com>
+Homepage: 
+Icon: https://chinesebuilding.club/pic/cydia.png
+Description: iOS26e深色版本 - 复刻自Rifai的完整日用品主题
+ 完整特性：
+  • 完美复刻iOS26深色模式外观
+  • 包含完整的App图标包
+  • 内置AppIconMask实现完美图标遮罩
+  • 精心调校的系统UI元素
+  • 流畅的动画效果
+  • 支持SnowBoard主题引擎
+  • 非搬运工源的插件仅在搬运工源上架供用户使用
+  • 原作者QQ号：3791270819若需要打赏或者提供新文件请添加QQ号来交流
+ .
+ 注意事项：
+  • 需要已越狱设备
+  • 需要安装SnowBoard及UI扩展
+ .
+ Enjoy！(^o^)
+Filename: ./debs/com.rifai.ios26edark_1.0.2_iphoneos-arm64.deb
+Size: 51334024
+MD5sum:49438d4128187ce76362eeab1a0ac6aa
